@@ -37,7 +37,7 @@ Download the [Trained Models]() to ``GrndPodcastSum`` Directory and unzip
 unzip model.zip
 ```
 
-Download the [Processed Test Set (1027)]() to ``GrndPodcastSum`` Directory and unzip
+Download the [Processed Test Set (1027)](https://tencentamerica-my.sharepoint.com/:u:/p/riversong/EUzHYm1Y89NGq5IA4T0f8ygBJ8GWE3EF2nue_umULelN5A?e=AeTDyg) to ``GrndPodcastSum`` Directory and unzip
 ```shell
 unzip data.zip
 ```
