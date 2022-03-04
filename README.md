@@ -17,8 +17,9 @@ We proposed a grounded summarization system, which provide each summary sentence
 ![example](https://raw.githubusercontent.com/tencent-ailab/GrndPodcastSum/main/example.png)
 
 ## News
++ 03/04/2022 Trained model and processed testing data released.
 + 03/03/2022 Code Released. Paper link, trained model and processed testing data will be released soon.
-+ 02/23/2022 Paper accepted at ACL 2022
++ 02/23/2022 Paper accepted at ACL 2022.
 
 ## Experiments
 
@@ -32,7 +33,7 @@ cd GrndPodcastSum
 ```
 
 
-Download the [Trained Models]() to ``GrndPodcastSum`` Directory and unzip
+Download the [Trained Models](https://tencentamerica-my.sharepoint.com/:u:/p/riversong/EQJXTcDij2tMrxkKq-ezpF8BTXIYxOQlBbI4zJNBSa3_Cg?e=UIb5kU) to ``GrndPodcastSum`` Directory and unzip
 ```shell
 unzip model.zip
 ```
