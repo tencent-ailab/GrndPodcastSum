@@ -14,7 +14,7 @@ We provide the source code for the paper "Towards Abstractive Grounded Summariza
 
 ## Goal
 We proposed a grounded summarization system, which provide each summary sentence a linked chunk of the original transcripts and their audio/video recordings. It allows a human evaluator to quickly verify the summary content against source clips.
-![example](https://github.com/tencent-ailab/GrndPodcastSum/blob/main/example.pdf)
+![example](https://raw.githubusercontent.com/tencent-ailab/GrndPodcastSum/main/example.pdf)
 
 ## Experiments
 
