@@ -1,5 +1,5 @@
 # Towards Abstractive Grounded Summarization of Podcast Transcripts
-We provide the source code for the paper "Towards Abstractive Grounded Summarization of Podcast Transcripts" accepted at ACL'22. If you find the code useful, please cite the following paper.
+We provide the source code for the paper ["Towards Abstractive Grounded Summarization of Podcast Transcripts"]() accepted at ACL'22. If you find the code useful, please cite the following paper.
 
     @inproceedings{song-etal-2022-grounded,
         title="Towards Abstractive Grounded Summarization of Podcast Transcripts",
@@ -15,6 +15,10 @@ We provide the source code for the paper "Towards Abstractive Grounded Summariza
 ## Goal
 We proposed a grounded summarization system, which provide each summary sentence a linked chunk of the original transcripts and their audio/video recordings. It allows a human evaluator to quickly verify the summary content against source clips.
 ![example](https://raw.githubusercontent.com/tencent-ailab/GrndPodcastSum/main/example.png)
+
+## News
++ 03/03/2022 Code Released. Paper link, trained model and processed testing data will be released soon.
++ 02/23/2022 Paper accepted at ACL 2022
 
 ## Experiments
 
