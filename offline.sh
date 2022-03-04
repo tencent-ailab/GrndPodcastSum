@@ -1,0 +1,1 @@
+python run.py --offline --batch_size 1 --ext_type TokenLevelEncoder --window_type token --kernel_size 256 --stride 256

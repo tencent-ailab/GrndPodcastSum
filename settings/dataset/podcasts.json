@@ -1,0 +1,37 @@
+{
+  "name": "podcasts",
+  "method": "build",
+  "Parts": {
+    "train": {
+      "name": "train",
+      "path": "./podcasts_train",
+      "sorted": true,
+      "shuffled": false
+    },
+    "test": {
+      "name": "test",
+      "path": "./podcasts_test1027",
+      "sorted": false,
+      "shuffled": false
+    },
+    "test150": {
+      "name": "test150",
+      "path": "./podcasts_test150",
+      "sorted": false,
+      "shuffled": false
+    },
+    "test179": {
+      "name": "test179",
+      "path": "./podcasts_test179",
+      "sorted": false,
+      "shuffled": false
+    },
+    "valid":
+    {
+      "name": "valid",
+      "path": "./podcasts_valid",
+      "sorted": false,
+      "shuffled": false
+    }
+  }
+}
