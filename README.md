@@ -51,13 +51,13 @@ conda env create -f env.yml
 conda activate GrndPodcastSum
 ```
 
-### Step 3. Offline Computing for Chunk Embeddings
+## Step 3. Offline Computing for Chunk Embeddings
 Calculating the chunk embedding offline.
 ```shell
 sh offline.sh
 ```
 
-### Step 4. Generating Grounded Summary
+## Step 4. Generating Grounded Summary
 Use Grnd-token-nonoveralp model to generate summary.
 ```shell
 sh test.sh
