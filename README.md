@@ -34,12 +34,12 @@ cd GrndPodcastSum
 ```
 
 
-Download the [Trained Models](https://tencentamerica-my.sharepoint.com/:u:/p/riversong/EQJXTcDij2tMrxkKq-ezpF8BTXIYxOQlBbI4zJNBSa3_Cg?e=UIb5kU) to ``GrndPodcastSum`` Directory and unzip
+Download the [Trained Models](https://tencentoverseas-my.sharepoint.com/:u:/g/personal/riversong_global_tencent_com/Ebi9ht9AbwlBi6FCxXeKCuQBcyoSMTRk-hofFdpLInU01w?e=JurGgT) to ``GrndPodcastSum`` Directory and unzip
 ```shell
 unzip model.zip
 ```
 
-Download the [Processed Test Set (1027)](https://tencentamerica-my.sharepoint.com/:u:/p/riversong/EUzHYm1Y89NGq5IA4T0f8ygBJ8GWE3EF2nue_umULelN5A?e=AeTDyg) to ``GrndPodcastSum`` Directory and unzip
+Download the [Processed Test Set (1027)](https://tencentoverseas-my.sharepoint.com/:u:/g/personal/riversong_global_tencent_com/ERhiDdS4BetHmZTlmO-JzXMBo3NQdqwZS9nikcem59_sDw?e=22uXt4) to ``GrndPodcastSum`` Directory and unzip
 ```shell
 unzip data.zip
 ```
